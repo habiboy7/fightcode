@@ -1,0 +1,13 @@
+@import './style.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swal2-timer-progress-bar {
+    background-color: #4caf50 !important;
+}
+
+
+
