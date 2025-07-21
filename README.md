@@ -1,8 +1,10 @@
-## FightCode Web Course Online
+😂## FightCode Web Course Online
+
+FightCode adalah platform website course online yang menyediakan video materi pembelajaran interaktif, mulai dari coding, desain, marketing, dan berbagai topik menarik lainnya.
+Dengan tampilan modern dan fitur lengkap, FightCode dirancang untuk membantu siapa pun belajar secara fleksibel, efektif, dan terarah, langsung dari para instruktur berpengalaman.
 
 
-
-## Learning Laravel
+## 
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
